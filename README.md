@@ -1,5 +1,7 @@
 # DeSo Node Install Script
 
+
+
 # Usage 
 
 sudo wget https://raw.githubusercontent.com/seanslater/bitclout-launch-node/main/bitclout-node.sh
@@ -9,6 +11,8 @@ sudo chmod 777 ./bitclout-node.sh
 sudo ./bitclout-node.sh
 
 sudo reboot
+
+
 
 # Description
 
