@@ -1,4 +1,4 @@
-# bitclout-launch-node
+# DeSo Node Install Script
 
 Installation script to start a new BitClout node using Ubuntu
 
